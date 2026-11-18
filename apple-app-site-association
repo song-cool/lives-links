@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "LR5A5F6L75.com.coolsong.DRG"
+        ],
+        "components": [
+          {
+            "/": "/today",
+            "comment": "오늘 한 줄 쓰기"
+          },
+          {
+            "/": "/write/today"
+          },
+          {
+            "/": "/event/*",
+            "comment": "인앱 이벤트"
+          }
+        ]
+      }
+    ]
+  }
+}
